@@ -35,3 +35,11 @@ Se realizaron las modificaciones pertinentes al documento de protocolo acatando 
 2. Reconfiguración del **Cronograma** de actividades:
    
    1. Calendarización de las actividades según las fechas utilizadas en el semestre actual y semestres pasados por la CATT para la evaluación del TT I y TT II
+
+### 2 de Octubre del 2022
+
+- Se crea la estructura para las revisiones de seguimiento y se agregan los productos pertinentes a la primer entrega.
+
+- Se añade el trabajo del artículo y ponencia realizada en el CORE 2022 del CIC
+
+- Una primer versión del árbol del estado del arte.
