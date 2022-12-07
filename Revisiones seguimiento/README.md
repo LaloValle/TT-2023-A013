@@ -8,12 +8,12 @@ El directorio se divide en carpetas que almacenan los documentos competentes al 
 
 ## Fechas de revisión
 
-| Número | Fecha        | Estado    |
-| ------ | ------------ | --------- |
-| 1era   | 5 Septiembre | Próxima   |
-| 2da    | 3 Octubre    | Pendiente |
-| 3er    | 24 Octubre   | Pendiente |
-| 4ta    | 5 Diciembre  | Pendiente |
+| Número | Fecha        | Estado   |
+| ------ | ------------ | -------- |
+| 1era   | 5 Septiembre | Atendida |
+| 2da    | 3 Octubre    | Atendida |
+| 3er    | 24 Octubre   | Atendida |
+| 4ta    | 5 Diciembre  | Atendida |
 
 ---
 
