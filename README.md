@@ -18,28 +18,9 @@ El principal objetivo de este repositorio será el versionamiento de los documen
 
 ---
 
-## Actualizaciones
+## Presentación de TT1
 
-### 3 de Junio del 2022
-
-Se realizaron las modificaciones pertinentes al documento de protocolo acatando las observaciones realizadas por los sinodales durante el Dictamen de Evaluación del Protocolo. Se plantea esta versión del documento como la versión final del Protocolo.
-
-1. Modificación de la sección de **Objetivos**:
-   
-   1. Implementación de verbos según la taxonomía de Bloom
-   
-   2. Reducción en la redacción de los objetivos a ideas más concretas
-   
-   3. Se consideran y responden las 3 preguntas básicas(¿Qué?,¿Cómo?,¿Para qué?)
-
-2. Reconfiguración del **Cronograma** de actividades:
-   
-   1. Calendarización de las actividades según las fechas utilizadas en el semestre actual y semestres pasados por la CATT para la evaluación del TT I y TT II
-
-### 2 de Octubre del 2022
-
-- Se crea la estructura para las revisiones de seguimiento y se agregan los productos pertinentes a la primer entrega.
-
-- Se añade el trabajo del artículo y ponencia realizada en el CORE 2022 del CIC
-
-- Una primer versión del árbol del estado del arte.
+Programada para el día viernes 16 de diciembre del 2022:
+- Horario: 14:00 a 16:00 hrs
+- Lugar: Sala 3209
+- Moderadora del jurado: Dra. Rosaura Palma Orozco
