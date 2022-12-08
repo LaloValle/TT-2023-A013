@@ -1,0 +1,165 @@
+{
+  "uuid": "09bf651fe5b028accc078e0ac46ad6cd",
+  "path": "Offline/03-10-22",
+  "name": "03-10-22",
+  "content": "Circuito sensor de gestos motrices con el micro:bit",
+  "created_at": "2022-10-03 18:20:28",
+  "updated_at": "2022-12-07 20:28:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e322b40671937f5760ef90467d29b030",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "04cd74f62910adea91b6d90cbd3e126b",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5c1036b53a4146e4841df4ed0a9de8f0": 1,
+        "f02ada7f29ea48718988de0cf46f0cbe": 1,
+        "85b53c957b6a4023935147b26662afe9": 1,
+        "92b84221c3904e04b4db78e3b374bba9": 1,
+        "4c6d45d647bd40a08dc59a5c1dacb16f": 1,
+        "daf5509e4a754a20ae66f80fb2903136": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Bateria de Litio",
+          1,
+          "59MMX33MM",
+          "BT1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "No.52Section side by side battery box",
+            "BOM_Supplier Part": "C5404",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "4c8118f81a764122919c2bc5347a6d22",
+            "uuid": "85b53c957b6a4023935147b26662afe9"
+          }
+        ],
+        [
+          "Micro:bit",
+          1,
+          "CYLCONN-MICROBIT-V2-EDGE-40P-180DEG",
+          "CON1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "b24e831c7a2e43df88111030099f5d4a",
+            "uuid": "92b84221c3904e04b4db78e3b374bba9"
+          }
+        ],
+        [
+          "Switch",
+          1,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1",
+          {
+            "BOM_Supplier Part": "C118141",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "K2-1107ST-A4SW-06",
+            "puuid": "daacbe2eec304950b61eef2efe596556",
+            "uuid": "5c1036b53a4146e4841df4ed0a9de8f0"
+          }
+        ],
+        [
+          "Zener 3.3V",
+          1,
+          "DIODE-ZENER",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "883fe388c4f540cf98bf3b728b871306",
+            "uuid": "f02ada7f29ea48718988de0cf46f0cbe"
+          }
+        ],
+        [
+          "TP4056-pr-1",
+          1,
+          "TP4056-PROTECTED",
+          "U4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "26abe2b228824d5f9963ebb83498a476",
+            "uuid": "4c6d45d647bd40a08dc59a5c1dacb16f"
+          }
+        ],
+        [
+          "WIRELESS-WIFI-ESP-01",
+          1,
+          "WIRELESS-WIFI-ESP-01",
+          "U5",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "121c41e8cce74b9da56f06825f8535f2",
+            "uuid": "daf5509e4a754a20ae66f80fb2903136"
+          }
+        ]
+      ],
+      "updateTime": 1670466517,
+      "createTime": 1664839228,
+      "histories": [],
+      "created_at": "2022-10-03 18:20:28",
+      "updated_at": "2022-12-07 20:28:37"
+    },
+    {
+      "uuid": "0cdc6ce5e237d46a427580e5a51a3cf8",
+      "puuid": "09bf651fe5b028accc078e0ac46ad6cd",
+      "title": "PCB_circuito_microbit_gestos_2",
+      "filename": "PCB_circuito_microbit_gestos_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4c8118f81a764122919c2bc5347a6d22": 1,
+        "b24e831c7a2e43df88111030099f5d4a": 1,
+        "daacbe2eec304950b61eef2efe596556": 1,
+        "883fe388c4f540cf98bf3b728b871306": 1,
+        "26abe2b228824d5f9963ebb83498a476": 1,
+        "121c41e8cce74b9da56f06825f8535f2": 1,
+        "1cb28e81acec46ff964cdf385160d008": 1
+      },
+      "BOM": [],
+      "updateTime": 1664864779,
+      "createTime": 1664842959,
+      "histories": [],
+      "created_at": "2022-10-03 19:22:39",
+      "updated_at": "2022-10-04 01:26:19"
+    },
+    {
+      "uuid": "1def83d8d668da37c444e76bc75d1707",
+      "puuid": "09bf651fe5b028accc078e0ac46ad6cd",
+      "title": "PBC_nodo_sensor_limpio",
+      "filename": "PBC_nodo_sensor_limpio.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "883fe388c4f540cf98bf3b728b871306": 1
+      },
+      "BOM": [],
+      "updateTime": 1664865831,
+      "createTime": 1664865191,
+      "histories": [],
+      "created_at": "2022-10-04 01:33:11",
+      "updated_at": "2022-10-04 01:43:51"
+    }
+  ],
+  "sort": [],
+  "title": "03-10-22",
+  "foldername": "03-10-22",
+  "schfilename": "circuito_microbit_gestos.json",
+  "schfilemtime": 1670466517891
+}
