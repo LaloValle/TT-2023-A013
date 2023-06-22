@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+numpy = "*"
+rich = "*"
+pandas = "*"
+scikit-learn = "*"
+resampy = "*"
+matplotlib = "*"
+setuptools = "*"
+wheel = "*"
+autocorrect = "*"
+google-cloud-texttospeech = "*"
+playsound = "*"
+pyobjc = "*"
+websockets = "*"
+fastapi-socketio = "*"
+pyttsx3 = "*"
+joblib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

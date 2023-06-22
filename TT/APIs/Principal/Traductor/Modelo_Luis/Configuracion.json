@@ -1,0 +1,9 @@
+{
+    "number_words" : 22,
+    "alphabet_size" : 9,
+    "window_size" : 9,
+    "numeric_alphabet" : true,
+
+    "classifier" : "./Traductor/Modelo_Luis/Classifier.joblib",
+    "representatives" : "./Traductor/Modelo_Luis/Representatives.csv"
+}
