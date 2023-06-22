@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+input {
+    background: none;
+}
+input:active, input:focus {
+    outline: none;
+}
+
+select:focus, select:active {
+    background: none;
+}
+
+#messageCheckbox:checked + label {
+    opacity: 0;
+}
+
+.loading {
+    animation: loading 800ms infinite;
+}
+@keyframes loading {
+    from { transform: rotate(0deg);}
+    to { transform: rotate(360deg);}
+}
+
+select {
+    position: relative;
+    -webkit-appearance:none;
+}
+select::after{
+    content: '';
+    display: block;
+    width: 10px; height: 10px;
+    background-color: black;
+}
+
+/*  */
+.screen_height_no_menu{
+    min-height: calc(100vh - 60px);
+}
+
+@layer components {
+    .screen {
+        @apply w-screen h-screen absolute top-0 left-0 bg-black/50 z-10
+    }
+
+    .container {
+        @apply max-w-[1024px] mx-auto
+    }
+
+    .navbar-icon {
+        @apply font-bold text-primary text-lg md:text-2xl align-middle cursor-pointer
+    }
+
+    .plain-icon-button {
+        @apply flex items-center w-max rounded-md cursor-pointer h-9 px-3 align-middle transition-colors
+    }
+    .plain-icon-button[class~='active'] {
+        @apply bg-actions text-white hover:bg-actions
+    }
+    .plain-icon-button[class~='inactive'] {
+        @apply bg-white hover:bg-gray-200
+    }
+
+    .main-section {
+        @apply px-8 py-12 md:py-20 md:px-14 grid grid-cols-1 md:grid-cols-2
+    }
+    .main-section[class~='right'] {
+        @apply text-left md:text-right
+    }
+
+    .main-section .title {
+        @apply text-highlight uppercase font-semibold tracking-[0.15rem] text-xs md:text-sm mb-4 col-start-1
+    }
+    .main-section[class~='light'] .title {
+        @apply text-secondary
+    }
+    .main-section[class~='right'] .title {
+        @apply col-start-1 md:col-start-2
+    }
+
+    .main-section .subtitle {
+        @apply text-white font-bold text-xl md:text-2xl mb-6 col-start-1
+    }
+    .main-section[class~='light'] .subtitle {
+        @apply text-black
+    }
+    .main-section[class~='right'] .subtitle {
+        @apply col-start-1 md:col-start-2
+    }
+
+    .main-section .description {
+        @apply text-gray-400 break-words text-justify col-start-1 text-sm md:text-base
+    }
+    .main-section[class~='light'] .description {
+        @apply text-black
+    }
+    .main-section[class~='right'] .description {
+        @apply text-left col-start-1 md:col-start-2 md:text-right
+    }
+}

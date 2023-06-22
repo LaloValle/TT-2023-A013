@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.203889mm"
+   height="4.6550655mm"
+   viewBox="0 0 11.203889 4.6550655"
+   version="1.1"
+   id="svg21"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="habla-v2.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="18.332502"
+     inkscape:cx="17.237145"
+     inkscape:cy="7.0639567"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21"
+     showguides="true" />
+  <defs
+     id="defs18" />
+  <path
+     style="display:inline;fill:#113356;fill-opacity:1;stroke:none;stroke-width:0.499999;paint-order:markers fill stroke"
+     d="M 4.4581012,0 H 3.948106 L 0,4.6547743 H 2.5054159 V 3.1293607 c 10e-8,-0.3938689 0.096906,-0.7104804 0.3626603,-0.8036796 0.4299269,-0.1507739 0.9866891,0.07482 1.0800298,0.8036796 l -5e-6,1.5254136 0.5099997,2.911e-4 5e-7,-4.65506489999999"
+     id="path5257"
+     sodipodi:nodetypes="cccccscccc"
+     inkscape:label="Ah-whole"
+     inkscape:export-filename="../diseños/habla-v2.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;letter-spacing:-0.3175px;text-anchor:middle;display:inline;fill:#3c6ee0;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     x="8.0073624"
+     y="4.8569498"
+     id="text4196"
+     inkscape:label="bla"><tspan
+       sodipodi:role="line"
+       id="tspan4194"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Heiti SC';-inkscape-font-specification:'Heiti SC Bold';fill:#3c6ee0;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="7.8486123"
+       y="4.8569498">bla</tspan></text>
+  <rect
+     style="display:inline;fill:#3c6ee0;fill-opacity:1;stroke-width:0.3;paint-order:markers fill stroke"
+     id="rect4204"
+     width="0.405"
+     height="0.89999998"
+     x="7.8024831"
+     y="0.00048891228"
+     inkscape:label="l-extension" />
+  <rect
+     style="display:inline;fill:#3c6ee0;fill-opacity:1;stroke-width:0.3;paint-order:markers fill stroke"
+     id="rect5512"
+     width="0.40000001"
+     height="0.89999998"
+     x="4.8256612"
+     y="0.00048891228"
+     inkscape:label="b-extension" />
+</svg>
