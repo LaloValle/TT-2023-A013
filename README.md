@@ -15,12 +15,3 @@ El principal objetivo de este repositorio será el versionamiento de los documen
 **Directores:** Rodolfo Romero Herrera, Jesús Yaljá Montiél Pérez
 
 **E-Mail:** [lvallem1400@alumno.ipn.mx](mailto:lvallem1400@alumno.ipn.mx), [lvalle212@gmail.com(*Personal*)](mailto:lvalle212@gmail.com)
-
----
-
-## Presentación de TT1
-
-Programada para el día viernes 16 de diciembre del 2022:
-- Horario: 14:00 a 16:00 hrs
-- Lugar: Sala 3209
-- Moderadora del jurado: Dra. Rosaura Palma Orozco
