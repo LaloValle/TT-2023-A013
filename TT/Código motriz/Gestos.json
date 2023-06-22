@@ -1,0 +1,200 @@
+{
+    "a" : {
+        "clase" : 1,
+        "nombre" : "Saludo",
+        "grafias" : ["a","ha"],
+        "palabra" : {
+            "fonemas" : "ola",
+            "escritura" : "hola"
+        }
+    },
+    "e" : {
+        "clase" : 2,
+        "nombre" : "Agradecimiento",
+        "grafias" : ["e","he"],
+        "palabra" : {
+            "fonemas" : "gɾasias",
+            "escritura" : "gracias"
+        }
+    },
+    "i" : {
+        "clase" : 3,
+        "nombre" : "Elevación",
+        "grafias" : ["i","hi"],
+        "palabra" : {
+            "fonemas" : "bien",
+            "escritura" : "bien"
+        }
+    },
+    "o" : {
+        "clase" : 4,
+        "nombre" : "Circunferencia",
+        "grafias" : ["o","ho"],
+        "palabra" : {
+            "fonemas" : "komeɾ",
+            "escritura" : "comer"
+        }
+    },
+    "u" : {
+        "clase" : 5,
+        "nombre" : "Balanceo",
+        "grafias" : ["u","hu"],
+        "palabra" : {
+            "fonemas" : "kaminaɾ",
+            "escritura" : "caminar"
+        }
+    },
+    "p" : {
+        "clase" : 6,
+        "nombre" : "Doble golpe",
+        "grafias" : ["p"],
+        "palabra" : {
+            "fonemas" : "kuando",
+            "escritura" : "cuando"
+        }
+    },
+    "b" : {
+        "clase" : 7,
+        "nombre" : "Indicación",
+        "grafias" : ["v","b"],
+        "palabra" : {
+            "fonemas" : "maɲana",
+            "escritura" : "mañana"
+        }
+    },
+    "t" : {
+        "clase" : 8,
+        "nombre" : "Corte",
+        "grafias" : ["t"],
+        "palabra" : {
+            "fonemas" : "aseɾ",
+            "escritura" : "hacer"
+        }
+    },
+    "d" : {
+        "clase" : 9,
+        "nombre" : "Pensamiento",
+        "grafias" : ["d"],
+        "palabra" : {
+            "fonemas" : "pensaɾ",
+            "escritura" : "pensar"
+        }
+    },
+    "k" : {
+        "clase" : 10,
+        "nombre" : "Exclamación",
+        "grafias" : ["k","qu","c"],
+        "palabra" : {
+            "fonemas" : "poɾ ke",
+            "escritura" : "por que"
+        }
+    },
+    "g" : {
+        "clase" : 11,
+        "nombre" : "Medio circulo",
+        "grafias" : ["gu","g"],
+        "palabra" : {
+            "fonemas" : "asta",
+            "escritura" : "hasta"
+        }
+    },
+    "ʧ" : {
+        "clase" : 12,
+        "nombre" : "Aplauso doble",
+        "grafias" : ["ch"],
+        "palabra" : {
+            "fonemas" : "adios",
+            "escritura" : "adios"
+        }
+    },
+    "f" : {
+        "clase" : 13,
+        "nombre" : "Chop chop",
+        "grafias" : ["f"],
+        "palabra" : {
+            "fonemas" : "aoɾa",
+            "escritura" : "ahora"
+        }
+    },
+    "s" : {
+        "clase" : 14,
+        "nombre" : "Sentimiento",
+        "grafias" : ["sc","z","c","s"],
+        "palabra" : {
+            "fonemas" : "sentiɾ",
+            "escritura" : "sentir"
+        }
+    },
+    "x" : {
+        "clase" : 15,
+        "nombre" : "Entrecruzado",
+        "grafias" : ["g","j"],
+        "palabra" : {
+            "fonemas" : "komo",
+            "escritura" : "como"
+        }
+    },
+    "j" : {
+        "clase" : 16,
+        "nombre" : "Propio",
+        "grafias" : ["ll"],
+        "palabra" : {
+            "fonemas" : "jo",
+            "escritura" : "yo"
+        }
+    },
+    "m" : {
+        "clase" : 17,
+        "nombre" : "Costados",
+        "grafias" : ["m"],
+        "palabra" : {
+            "fonemas" : "donde",
+            "escritura" : "dónde"
+        }
+    },
+    "n" : {
+        "clase" : 18,
+        "nombre" : "Agitado",
+        "grafias" : ["n"],
+        "palabra" : {
+            "fonemas" : "tiempo",
+            "escritura" : "tiempo"
+        }
+    },
+    "ɲ" : {
+        "clase" : 19,
+        "nombre" : "Medio corazon",
+        "grafias" : ["ñ"],
+        "palabra" : {
+            "fonemas" : "keɾeɾ",
+            "escritura" : "querer"
+        }
+    },
+    "l" : {
+        "clase" : 20,
+        "nombre" : "Latido doble",
+        "grafias" : ["l"],
+        "palabra" : {
+            "fonemas" : "teneɾ",
+            "escritura" : "tener"
+        }
+    },
+    "ɾ" : {
+        "clase" : 21,
+        "nombre" : "Meneo",
+        "grafias" : ["r"],
+        "palabra" : {
+            "fonemas" : "todo",
+            "escritura" : "todo"
+        }
+    },
+    "r" : {
+        "clase" : 22,
+        "nombre" : "Impulso",
+        "grafias" : ["rr","r"],
+        "palabra" : {
+            "fonemas" : "peɾo",
+            "escritura" : "pero"
+        }
+    }
+}
